@@ -1,6 +1,6 @@
 import logo from "./logo-grey.png";
 import "./App.css";
-// import taco from "./tacoFinal.pdf";
+import amanda from "./amandaFinal.pdf";
 
 function App() {
   return (
@@ -71,9 +71,9 @@ function App() {
           </div>{" "}
           <div class="row">
             <div class="col-xs-12">
-              {/* <a href={taco} class="btn btn-primary btn-block btn-flat">
+              <a href={amanda} class="btn btn-primary btn-block btn-flat">
                 Download report (pdf format)
-              </a> */}
+              </a>
             </div>
           </div>
         </div>
